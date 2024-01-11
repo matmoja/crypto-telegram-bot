@@ -1,5 +1,7 @@
 # crypto-telegram-bot
 
+note: this project is still in the works
+
 ## Introduction
 Crypto Telegram Bot is a Telegram bot that allows users to track cryptocurrency prices and receive updates at specified intervals.
 

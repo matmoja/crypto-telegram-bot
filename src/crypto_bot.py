@@ -1,7 +1,7 @@
 from telegram.ext import Updater, MessageHandler, CommandHandler, Filters
 from helpers import CryptoBotHelper
 
-TELEGRAM_BOT_TOKEN = '6902442506:AAHe2fCbSNFbENajFaavlLeEL1udJuSIQAk'
+TELEGRAM_BOT_TOKEN = 'Your telegram token here'
 
 def main() -> None:
     updater = Updater(token=TELEGRAM_BOT_TOKEN, use_context=True)

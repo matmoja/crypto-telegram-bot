@@ -4,7 +4,7 @@ from telegram import Bot, Update
 from telegram.ext import Updater, MessageHandler, CommandHandler, Filters
 from helpers import CryptoBotHelper
 
-TELEGRAM_BOT_TOKEN = '6902442506:AAHe2fCbSNFbENajFaavlLeEL1udJuSIQAk'
+TELEGRAM_BOT_TOKEN = 'Your telegram token here'
 
 def main() -> None:
     bot = Bot(token=TELEGRAM_BOT_TOKEN)
